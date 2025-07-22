@@ -1,0 +1,1 @@
+Copy cmdline.txt and config.txt into flashed directoy on sd card
