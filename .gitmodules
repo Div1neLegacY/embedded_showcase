@@ -9,4 +9,4 @@
 	url = https://github.com/openembedded/meta-openembedded.git
 [submodule "meta-rpi-custom"]
 	path = meta-rpi-custom
-	url = ./meta-rpi-custom
+	url = https://github.com/Div1neLegacY/meta-rpi-custom.git
